@@ -1,0 +1,8 @@
+Test all of the code
+Figure out how to get and send commands to the ESP32
+Store the connection information for the ESP32
+
+Store lenses and profiles based on focus distance and rotation. Mark button.
+Add in an adjustment factor for when in use.
+
+Implement the ESP32 code
